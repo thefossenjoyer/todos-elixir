@@ -1,5 +1,4 @@
-# todos-elixir
-To-do app in ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&amp;logo=elixir&amp;logoColor=white)
+# elixir-todos
 
 ## How to install?
 Copy the repo and `cd` into it.
